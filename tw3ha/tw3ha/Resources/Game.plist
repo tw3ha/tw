@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/pou@2x.png</string>
+			<key>key</key>
+			<string>pou</string>
+			<key>label</key>
+			<string>pou</string>
+		</dict>
+
+	  <dict>		
+			<key>action</key>
+			<string>pou</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>dow</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/bla@2x.png</string>
+			<key>key</key>
+			<string>bla</string>
+			<key>label</key>
+			<string>BleachBraveSouls</string>
+		</dict>
+
+	  <dict>		
+			<key>action</key>
+			<string>bou</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>dow</string>
+		</dict>		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>pa</string>
+		</dict>
+
+	  <dict>		
+			<key>action</key>
+			<string>pa</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string></string>
+			<key>label</key>
+			<string>dow</string>
+		</dict>	
+	</array>
+	<key>title</key>
+	<string>ga</string>
+</dict>
+</plist>

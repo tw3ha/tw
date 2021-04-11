@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>في اي بي و مستوي في اي بي 10</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/stm@2x.png</string>
+			<key>key</key>
+			<string>stm</string>
+			<key>label</key>
+			<string>StarMaker</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>StarMaker</string>
+			<key>subtitle</key>
+			<string>لتحميل البرنامج من هنا</string>
+			<key>url</key>
+			<string>https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>respring</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>A</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>re.png</string>
+			<key>label</key>
+			<string>Enable Pro</string>
+		</dict>
+		<dict>
+		<key>cellClass</key>
+		<string>HBLinkTableCell</string>
+		<key>icon</key>
+		<string>icon/pa@2x.png</string>
+		<key>label</key>
+		<string>PayPal</string>
+		<key>subtitle</key>
+		<string>support me</string>
+		<key>url</key>
+		<string>https://www.Paypal.Me/tw3ha/</string>
+	</dict>
+		</array>
+		<key>title</key>
+		<string>تهكر بعض البرامج وهمي</string>
+	</dict>
+</plist>

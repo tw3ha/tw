@@ -1,0 +1,9 @@
+Package: com.github.tw3to.tw3ha
+Name: tw3ha
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Version: 7.6-1+debug
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @1_lj6
+Author: @1_lj6
+Section: Tweaks
